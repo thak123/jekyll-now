@@ -6,10 +6,12 @@ I am currently pursing my Ph.D. at the [Faculty of humanities and social science
 My research mainly focuses on cross-lingual sentiment analysis for low-resourced languages. I am interested in testing the limitations of cross-lingual supervision transfer in zero-shot as well as few-shot settings. 
 
 ## Publications
+You can check my publications [here](https://scholar.google.com/citations?user=Bigz0X8AAAAJ&hl=en&oi=sra&gmla=AJsN-F5BPGyGI2S-4PaPRMzXDsxJs9R1y3cbKuNqmozMUbwS-JLSkTLxbsv1OvewUuetSXeaheuHR4Ky8FvByjFIszZwbijH8P5NzchpIs149YO6BnWAtzs&sciund=4138080180271924362)
 
-## Other publications and b
+## Blogs
 To see my p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTA0Mzc4MywtMTgyNTIwMTc3XX0=
+eyJoaXN0b3J5IjpbLTQ0NzM2NTU1LDE5OTEwNDM3ODMsLTE4Mj
+UyMDE3N119
 -->

@@ -12,4 +12,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thak123@gmail.com](mailto:thak123@gmail.com)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NTAzODUwOTddfQ==
+-->
